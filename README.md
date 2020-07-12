@@ -12,4 +12,4 @@ Probably I should learn from other engineers how to convince non-system-designer
 
 <hr />
 
-:dog: Profile pic is my beloved dog, Taro (1999 ~ 2016). She loved people, except mailman :godmode: .
+:dog: Profile pic is my beloved dog, Taro (1999 - 2016). She loved people, except mailman :godmode: .
