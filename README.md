@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**pocka/pocka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:dog: **Anything fun?** :dog:
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Looking for something exciting or fun.
+I wanna solve problems.
+Building just what clients say is not engineering; why do I creating things that promised to fail in the future?
+
+Probably I should learn from other engineers how to convince non-system-designers to stop designing system or to endure to write broken softwares...
+
+:dog: :dog: :dog: :dog: :dog: :dog:
+
+Profile pic is my beloved dog, Taro (1998? ~ 2016? <sup>[1]</sup>). She loved people, except mailman.
+
+<small>[1] ... I'm not sure the precise years. I was too(?) young then :(</small>
