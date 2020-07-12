@@ -10,8 +10,8 @@ Building just what clients say is not engineering; why do I creating things that
 
 Probably I should learn from other engineers how to convince non-system-designers to stop designing system or to endure to write broken softwares...
 
-:dog: :dog: :dog: :dog: :dog: :dog:
+<hr />
 
-Profile pic is my beloved dog, Taro (1998? ~ 2016? <sup>[1]</sup>). She loved people, except mailman.
+:dog: Profile pic is my beloved dog, Taro (1998? ~ 2016? <sup>[1]</sup>). She loved people, except mailman :godmode: .
 
 <small>[1] ... I'm not sure the precise years. I was too(?) young then :(</small>
