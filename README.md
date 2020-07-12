@@ -12,6 +12,4 @@ Probably I should learn from other engineers how to convince non-system-designer
 
 <hr />
 
-:dog: Profile pic is my beloved dog, Taro (1998? ~ 2016? <sup>[1]</sup>). She loved people, except mailman :godmode: .
-
-<small>[1] ... I'm not sure the precise years. I was too(?) young then :(</small>
+:dog: Profile pic is my beloved dog, Taro (1999 ~ 2016). She loved people, except mailman :godmode: .
