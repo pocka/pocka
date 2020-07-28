@@ -1,6 +1,6 @@
 <div align="center">
 
-:dog: **Anything fun?** :dog:
+:dog: **Looking for something fun** :dog:
 
 </div>
 
