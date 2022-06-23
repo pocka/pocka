@@ -1,4 +1,4 @@
-[:dog:](https://youtu.be/dQw4w9WgXcQ)
+Looking for a new job :dog:
 
 ---
 
