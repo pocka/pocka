@@ -1,1 +1,1 @@
-:dog:
+Recovering from burnout :dog:
