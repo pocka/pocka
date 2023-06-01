@@ -34,4 +34,4 @@ Talking? Almost no opportunity to use, hence unknown.
 However I need to turn on CC for TV shows/movies on Netflix, so I guess there are still many hurdles I have to kick out.
 
 I may make a catastrophic grammatical mistake or nonsense in my issue comments, documents, or source code.
-Corrections (Pull Requests) are very appriciated.
+Corrections (Pull Requests) are much appriciated.
